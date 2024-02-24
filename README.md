@@ -6,6 +6,6 @@ Imagine a vibrant interface where colorful bins line the screen. Your mission? D
 
 But Erthyea isn't just about points. It's about real-world impact. By understanding how to sort waste correctly, you contribute directly to a cleaner environment and a more efficient waste management system. Improperly sorted waste can contaminate entire batches, making recycling difficult and expensive. Erthyea equips you with the knowledge to avoid this, ensuring your waste gets recycled effectively.
 
-The app caters to all ages and learning styles. Eye-catching visuals and intuitive gameplay make it easy for children to grasp the concepts, while adults can enjoy a refreshing and informative challenge. Additionally, Erthyea can be customized to reflect local sorting guidelines, ensuring its relevance across different communities.
+The app caters to all ages and learning styles. Eye-catching visuals and intuitive gameplay make it easy for children to grasp the concepts, while adults can enjoy a refreshing and informative challenge. 
 
-With its focus on education and entertainment, Erthyea is poised to revolutionize waste management. It's more than just an app; it's a call to action, urging individuals to take responsibility for their waste and contribute to a greener future. So, download Erthyea today, conquer those bins, and watch your waste sorting skills – and your points – soar!
+With its focus on education and entertainment, Erthyea is poised to revolutionize waste management. It's more than just an app; it's a call to action, urging individuals to take responsibility for their waste and contribute to a greener future. Conquer those bins, and watch your waste sorting skills – and your points – soar! with Erthyea.
