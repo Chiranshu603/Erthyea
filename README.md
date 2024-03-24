@@ -9,3 +9,11 @@ But Erthyea isn't just about points. It's about real-world impact. By understand
 The app caters to all ages and learning styles. Eye-catching visuals and intuitive gameplay make it easy for children to grasp the concepts, while adults can enjoy a refreshing and informative challenge. 
 
 With its focus on education and entertainment, Erthyea is poised to revolutionize waste management. It's more than just an app; it's a call to action, urging individuals to take responsibility for their waste and contribute to a greener future. Conquer those bins, and watch your waste sorting skills – and your points – soar! with Erthyea.
+<img width="330" alt="ss1" src="https://github.com/Chiranshu603/Erthyea/assets/95736813/75addd32-cb4c-4722-9aad-7c16089e1c83">
+Onboarding Screen
+
+![WhatsApp Image 2024-02-25 at 7 19 32 PM](https://github.com/Chiranshu603/Erthyea/assets/95736813/10a84f42-7d77-4dc3-9976-dff180824748)
+Educate about each bin
+
+![WhatsApp Image 2024-02-25 at 7 19 32 PM (1)](https://github.com/Chiranshu603/Erthyea/assets/95736813/223a40b4-5efe-42c4-b94a-5dba79568784)
+Gamified Learning
